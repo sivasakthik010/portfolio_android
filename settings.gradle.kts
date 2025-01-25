@@ -19,6 +19,10 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Protfolio"
+rootProject.name = "Portfolio"
 include(":app")
- 
+include(":domain")
+include(":data")
+include(":network")
+include(":local")
+include(":model")

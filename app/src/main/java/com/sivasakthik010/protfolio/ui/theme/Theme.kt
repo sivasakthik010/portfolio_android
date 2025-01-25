@@ -1,4 +1,4 @@
-package com.sivasakthik010.protfolio.ui.theme
+package com.sivasakthik010.portfolio.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -33,7 +33,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun ProtfolioTheme(
+fun PortfolioTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

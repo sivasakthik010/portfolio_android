@@ -1,4 +1,4 @@
-package com.sivasakthik010.protfolio.ui.theme
+package com.sivasakthik010.portfolio.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

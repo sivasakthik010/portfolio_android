@@ -1,4 +1,4 @@
-package com.sivasakthik010.protfolio
+package com.sivasakthik010.portfolio
 
 import org.junit.Test
 

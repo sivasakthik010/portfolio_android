@@ -1,4 +1,4 @@
-package com.sivasakthik010.protfolio.ui.theme
+package com.sivasakthik010.portfolio.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

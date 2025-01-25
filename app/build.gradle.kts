@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.sivasakthik010.protfolio"
+    namespace = "com.sivasakthik010.portfolio"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.sivasakthik010.protfolio"
+        applicationId = "com.sivasakthik010.portfolio"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
